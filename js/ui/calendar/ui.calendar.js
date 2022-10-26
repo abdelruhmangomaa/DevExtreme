@@ -40,7 +40,7 @@ const POP_ANIMATION_TO = 1;
 
 const CALENDAR_INPUT_STANDARD_PATTERN = 'yyyy-MM-dd';
 const CALENDAR_DATE_VALUE_KEY = 'dxDateValueKey';
-
+const aag = "aag";
 const LEVEL_COMPARE_MAP = {
     'month': 3,
     'year': 2,
